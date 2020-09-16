@@ -34,4 +34,6 @@ Welp:
 * Touchpad
 * Graphics intensive Apps
 
+Found some more issues? [Report them here!](https://github.com/mvaisakh/Asus-X505ZA-Ryzen-Hackintosh/issues)
+
 As I said earlier, it's unstable for daily usage. You can browse web and all, but don't expect it to be butter smooth at all.
