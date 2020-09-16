@@ -1,10 +1,12 @@
 ---
 description: >-
   This is only intended for ASUS VivoBook 15 Ryzen 5 2500u Laptop, though it can
-  work on other laptops with the same processor.
+  work on other laptops with the same processor. This is a Work In Progress
 ---
 
 # ASUS VivoBook 15 Hackintosh
+
+## Work In Progress!
 
 ## Disclaimer
 
