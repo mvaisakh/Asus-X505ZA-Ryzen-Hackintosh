@@ -4,3 +4,7 @@
 
 ### I do not take responsibility if you do anything wrong and your laptop gets damaged in the process. Do it at your own risk!
 ### This is still in _ALPHA_ stage, use only if you want to flex with friends that you run macOS on your laptop.
+
+## Screenshot
+
+![Main Screenshot](https://github.com/mvaisakh/Asus-X505ZA-Ryzen-Hackintosh/raw/master/.resources/Screenshot%202020-09-15%20at%2011.41.29%20PM.png)
