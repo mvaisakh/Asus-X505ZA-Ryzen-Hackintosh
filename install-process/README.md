@@ -15,12 +15,7 @@ MacOS does not boot on standard device hardware, and bootloader. It has to be co
 
 You'll need to have a USB stick of 16GB or more \(MacOS is about 8GB to download\), a good internet connection and ofcourse what we all lack, _a brain_!
 
-So this installation will be divided into certain steps:
+You should head over to [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/) for setting up the Bootloader and Downloading MacOS ad writing it to the USB.
 
-* Gathering Files
-* Setting up Bootloader \(I only use OpenCore\)
-* Setting up USB
-* Setting up Bios
-* Firing up and Installing MacOS X
-* Post Install
+#### [Go to Dortania!](https://dortania.github.io/OpenCore-Install-Guide/)
 
