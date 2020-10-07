@@ -6,7 +6,7 @@ description: >-
 
 # ASUS VivoBook 15 Hackintosh
 
-## Work In Progress!
+## Work In Progress (Including the Guide)!
 
 ## Disclaimer
 
@@ -16,3 +16,4 @@ description: >-
 
 ![Initial Catalina Build](.gitbook/assets/screenshot-2020-09-15-at-11.41.29-pm.png)
 
+## [Head over to this Guide (WIP)](https://vaisakhmurali.gitbook.io/x505za-hackintosh/what-works)
